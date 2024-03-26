@@ -1,7 +1,7 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/26uf2I4Vlv2ttNvZm/giphy.gif" width="200px"/>
-<h1> <img src="https://media.giphy.com/media/1ZDDyAaAA82ywDiyKs/giphy.gif" width="50px"/>!Hi, I´m Jeison Vera. </h1>
-  <h3>I´m a web developer passionate about web development for the search for knowledge, I´m from Colombia</h3>
+<div id="header">
+<img src="./img/Full-stack developer.png" />
+<h1 style=" text-align: center;">👋 !Hi, I´m Jeison Vera. </h1>
+  <h3>Passionate full stack web developer committed to crafting seamless digital experiences. From elegant front-end designs to robust back-end solutions, I thrive on bringing ideas to life through code. Let's build something amazing together! 💻✨ #FullStack #WebDevelopment </h3>
 </div>
 
 # 💫 About Me:
@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/jeisonvera16) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jeisonwildemervera) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
